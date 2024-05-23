@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestCreateProject
+  gitServerName: test1
+  gitUrl: https://github.com/PoojaAnandGit/TestCreateProject
+  gitUsername: PoojaAnandGit
+  gitBranch: main
